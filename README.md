@@ -1,3 +1,3 @@
 # Fonts
-NIKOSH
-SUTONNY
+- Nikosh
+- Sutonny
